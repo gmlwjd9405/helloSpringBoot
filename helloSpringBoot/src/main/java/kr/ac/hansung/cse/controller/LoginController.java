@@ -1,4 +1,4 @@
-package kr.ac.hansung.controller;
+package kr.ac.hansung.cse.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
