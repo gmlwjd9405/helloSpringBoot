@@ -10,6 +10,9 @@
 </head>
 <body>
 
+	<div style="color: #ff0000;">
+		<h3>${errorMsg}</h3>
+	</div>
 	<form action="<c:url value="/login"/>" method="post">
 		Username: <input type="text" name="username">
 		Password: <input type="password" name="password">
